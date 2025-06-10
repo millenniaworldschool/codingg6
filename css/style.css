@@ -1,0 +1,14 @@
+.heroTitle{
+    padding: 100px 0px;
+}
+
+.projectList{
+    .card{
+        padding: 15px;
+        margin-bottom: 30px;
+        h4{
+            margin-top: 30px;
+            font-size: 1em;
+        }
+    }
+}
